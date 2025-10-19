@@ -1,0 +1,17 @@
+[
+    {
+      "id": "flood",
+      "name": "Flood Risk Points",
+      "type": "csv",
+      "path": "/data/flood_data.csv",
+      "color": "#0077ff"
+    },
+    {
+      "id": "earthquake",
+      "name": "Earthquake Risk Zones",
+      "type": "geojson",
+      "path": "/data/earthquakes.json",
+      "color": "#ff0000"
+    }
+  ]
+  
